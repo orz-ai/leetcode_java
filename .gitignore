@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea/
+/out/
+/src/leetcode/editor/cn/doc
+leet-code.iml
+leetcode_java.iml
